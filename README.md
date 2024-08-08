@@ -1,2 +1,2 @@
 # LaTeX
-Curso minimi de LaTeX Basico
+Curso minimo de LaTeX Basico
